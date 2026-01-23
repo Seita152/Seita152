@@ -30,6 +30,7 @@
 ---
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [「APの突然の死・・・」その原因に迫る](https://zenn.dev/seita621/articles/e7c8846fb21a9d)
 - [Proxmox VE のライブマイグレーションの実力を試す&lpar;Proxmox VE インストール ～ ライブマイグレーション実行まで&rpar;](https://zenn.dev/seita621/articles/e0dcd29e8440a0)
 - [GUI が操作不能になった Ubuntu からデータを取り出す方法【リカバリーモード】](https://zenn.dev/seita621/articles/5b6362bf1ea56e)
 - [ローカルLLM環境をWSL2&lpar;Ubuntu&rpar;+Docker+Ollama&lpar;Gemma3&rpar;で構築してみた](https://zenn.dev/seita621/articles/387dd669480229)
