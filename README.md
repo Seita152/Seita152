@@ -30,11 +30,11 @@
 ---
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【後編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/3b9d8f8b78107a)
+- [【前編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/a276816162644e)
 - [GASで予約システムを作る：土日祝日の自動除外＆キャンセル枠の復活まで実装](https://zenn.dev/seita621/articles/da9d9b10007f49)
 - [後半1：Gemma 4 思考モード検証：26B vs E4B](https://zenn.dev/seita621/articles/831d46fd6f499d)
 - [前半：【導入編】 続・ローカルLLM環境をWSL2+Docker+Ollama&lpar;Gemma4&rpar;で構築してみた](https://zenn.dev/seita621/articles/85b575672765c7)
-- [「APの突然の死・・・」その原因に迫る](https://zenn.dev/seita621/articles/e7c8846fb21a9d)
-- [Proxmox VE のライブマイグレーションの実力を試す&lpar;Proxmox VE インストール ～ ライブマイグレーション実行まで&rpar;](https://zenn.dev/seita621/articles/e0dcd29e8440a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
