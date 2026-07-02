@@ -30,11 +30,11 @@
 ---
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RTX830同士でL2VPNを構築してみる](https://zenn.dev/seita621/articles/861b4ed57142ac)
 - [【補足編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/8c7c2894d472c5)
 - [【後編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/3b9d8f8b78107a)
 - [【前編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/a276816162644e)
 - [GASで予約システムを作る：土日祝日の自動除外＆キャンセル枠の復活まで実装](https://zenn.dev/seita621/articles/da9d9b10007f49)
-- [後半1：Gemma 4 思考モード検証：26B vs E4B](https://zenn.dev/seita621/articles/831d46fd6f499d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
