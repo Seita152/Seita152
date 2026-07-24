@@ -30,11 +30,11 @@
 ---
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【VM構築編】ProxmoxのSDN環境をTerraform管理する](https://zenn.dev/seita621/articles/c3bd01700ac50c)
 - [【SDN構築編】ProxmoxのSDN環境をTerraform管理する](https://zenn.dev/seita621/articles/8dbdb893c979e3)
 - [RTX830同士でL2VPNを構築してみる](https://zenn.dev/seita621/articles/861b4ed57142ac)
 - [【補足編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/8c7c2894d472c5)
 - [【後編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/3b9d8f8b78107a)
-- [【前編】ProxmoxとTerraformでIaC学習環境を作る](https://zenn.dev/seita621/articles/a276816162644e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
