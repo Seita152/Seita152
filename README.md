@@ -30,11 +30,11 @@
 ---
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【Proxmox × Terraform × Ansible】オンプレミスIaC完全自動化ロードマップ](https://zenn.dev/seita621/articles/25a3700cd34edc)
 - [【Ansible編】AnsibleでWebサーバー（Nginx）構築を自動化](https://zenn.dev/seita621/articles/c0acaa6fb9db37)
 - [【Windows 11】OpenSSHで外部からSSH接続する手順](https://zenn.dev/seita621/articles/7b2831a184d1d6)
 - [【VM構築編】ProxmoxのSDN環境をTerraform管理する](https://zenn.dev/seita621/articles/c3bd01700ac50c)
 - [【SDN構築編】ProxmoxのSDN環境をTerraform管理する](https://zenn.dev/seita621/articles/8dbdb893c979e3)
-- [RTX830同士でL2VPNを構築してみる](https://zenn.dev/seita621/articles/861b4ed57142ac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
